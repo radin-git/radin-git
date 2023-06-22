@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @radin-git
+- 👀 I’m interested in machine learning, python, software designing
+- 🌱 I’m currently learning python Intermediate
